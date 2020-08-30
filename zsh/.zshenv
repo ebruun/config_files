@@ -2,5 +2,5 @@
 # 1st File
 # Login/Interactive/Scripts/Terminal
 
-# This path is now set globally in /etc/zshenv
-#export ZDOTDIR="$HOME/.zsh"
+# This path is now set globally in /etc/zprofile
+#export ZDOTDIR="$HOME/.dotfiles/zsh"
