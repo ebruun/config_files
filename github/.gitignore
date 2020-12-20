@@ -1,8 +1,4 @@
-# Don't track profile results
-profiling_results/
-
-# Don't track output folder
-src_pathplanner/output/output_files/
+#GIT IGNORE ADAPTED FROM APC524 CLASS
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
