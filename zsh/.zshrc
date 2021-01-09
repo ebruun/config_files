@@ -22,8 +22,9 @@ setopt CORRECT # Corrections to typos [no/yes/abort/edit]
 setopt CORRECT_ALL
 
 # VARIABLES
+export PATH=/usr/local/sbin:${PATH}
 export PATH=$PATH:$HOME/bin
-export PATH
+#export PATH
 
 export EDITOR='subl -w' # Sublime text as editor
 
