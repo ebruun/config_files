@@ -364,7 +364,10 @@ ipython_config.py
 # pyenv
 .python-version
 
-# Mac python stuff
+#ADDED
+*.pyc
+
+#ADDED: Mac python stuff
 .DS_Store
 
 # pipenv
