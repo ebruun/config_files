@@ -280,6 +280,7 @@ TSWLatexianTemp*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
+*.pyc #ADDED
 *.py[cod]
 *$py.class
 
@@ -363,9 +364,6 @@ ipython_config.py
 
 # pyenv
 .python-version
-
-#ADDED
-*.pyc
 
 #ADDED: Mac python stuff
 .DS_Store
