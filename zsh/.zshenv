@@ -4,4 +4,4 @@
 
 # This path is now set globally in /etc/zprofile
 # If this file gets deleted, add this line...
-#export ZDOTDIR="$HOME/.dotfiles/zsh"
+export ZDOTDIR="$HOME/Documents/github/config_files/zsh"
