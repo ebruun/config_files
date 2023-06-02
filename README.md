@@ -15,15 +15,24 @@
     * git command line tools (prompted when in terminal)
 * [Hyper](https://hyper.is/)
 * [VSCode](https://code.visualstudio.com/Download)
-    * Material Icon Theme (icons)
-    * Monokai Pro (color)
-    * Docker
-    * Markdown All in One
-    * Paste Image
-    * Python
+  * Material Icon Theme (icons)
+  * Monokai Pro (color)
+  * Docker
+  * Markdown All in One
+  * Paste Image
+  * Python
 * [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 * [CleanMyMac](https://my.macpaw.com/)
 * [Anaconda](https://www.anaconda.com/)
+  * if doing it this way probably need to install to `Users/UserName`
+  * ~/opt (graphical install)
+  * ~ (shell install)
+* [Homebrew](https://brew.sh/)
+  * `eval "$(/opt/homebrew/bin/brew shellenv)"` >> .zprofile
+  * `brew install --cask anaconda`
+  * `source /opt/homebrew/anaconda3/bin/activate`
+  * `conda init zsh`, for update to .zshrc file
+* [Sublime Text](https://www.sublimetext.com/download_thanks?target=mac)
 
 
 
