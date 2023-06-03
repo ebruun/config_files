@@ -1,0 +1,11 @@
+name: zerowaste_graphs
+channels:
+  - conda-forge
+  - r
+  - defaults
+dependencies:
+  - python=3.8.10
+  - networkx=2.7.1
+  - matplotlib=3.5.1
+  - flake8=6.0.0
+prefix: /opt/homebrew/anaconda3/envs/zerowaste_graphs

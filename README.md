@@ -21,6 +21,7 @@
   * Markdown All in One
   * Paste Image
   * Python
+  * Black
 * [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 * [CleanMyMac](https://my.macpaw.com/)
 * [Anaconda](https://www.anaconda.com/)
@@ -38,6 +39,9 @@
 * [eM Client](https://www.emclient.com/)
 * [Dropbox](https://www.dropbox.com/install)
 * [Google Drive](https://www.google.com/drive/download/)
+* [Miscrosoft Office](https://portal.office.com/account#installs)
+* [Exodus](https://www.exodus.com/m1/)
+* [Evernote](https://evernote.com/download)
 
 
 
