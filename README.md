@@ -27,12 +27,17 @@
   * if doing it this way probably need to install to `Users/UserName`
   * ~/opt (graphical install)
   * ~ (shell install)
+  * `conda config --show`
 * [Homebrew](https://brew.sh/)
   * `eval "$(/opt/homebrew/bin/brew shellenv)"` >> .zprofile
   * `brew install --cask anaconda`
   * `source /opt/homebrew/anaconda3/bin/activate`
   * `conda init zsh`, for update to .zshrc file
 * [Sublime Text](https://www.sublimetext.com/download_thanks?target=mac)
+* [Rhino](https://www.rhino3d.com/download/)
+* [eM Client](https://www.emclient.com/)
+* [Dropbox](https://www.dropbox.com/install)
+* [Google Drive](https://www.google.com/drive/download/)
 
 
 
@@ -52,5 +57,8 @@
 
 `$ ln -sv ~/Documents/GitHub/config_files/github/.gitconfig ~/.gitconfig`
 
+`$ ln -sv ~/Documents/GitHub/config_files/anaconda/.condarc ~/.condarc`
+
 ![](/_embed_imgs/README_symlinks_home.png)
+
 

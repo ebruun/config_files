@@ -1,3 +1,12 @@
+# For more information about this file see:
+# https://conda.io/docs/user-guide/configuration/use-condarc.html
+
+# To see conda config, run the following
+# conda config --show
+
+# To check where and what configs are set
+# conda config --show-sources
+
 ssl_verify: true
 
 # This is a sample .condarc file.
@@ -16,5 +25,12 @@ channels:
   - defaults
 show_channel_urls: true
 
-# For more information about this file see:
-# https://conda.io/docs/user-guide/configuration/use-condarc.html
+# conda updates itself any time a user updates
+# or installs a package in the root environment
+auto_update_conda: True
+
+pkgs_dirs:
+  - /opt/homebrew/anaconda3/pkgs
+  
+envs_dirs:
+  - /opt/homebrew/anaconda3/envs
