@@ -1,5 +1,6 @@
 - [Programs to Download](#programs-to-download)
   - [Mac](#mac)
+- [VSCode Setup](#vscode-setup)
 - [Symlinking Dotfiles](#symlinking-dotfiles)
 
 
@@ -14,14 +15,6 @@
 * [Github Desktop](https://desktop.github.com/)
     * git command line tools (prompted when in terminal)
 * [Hyper](https://hyper.is/)
-* [VSCode](https://code.visualstudio.com/Download)
-  * Material Icon Theme (icons)
-  * Monokai Pro (color)
-  * Docker
-  * Markdown All in One
-  * Paste Image
-  * Python
-  * Black
 * [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 * [CleanMyMac](https://my.macpaw.com/)
 * [Anaconda](https://www.anaconda.com/)
@@ -42,8 +35,24 @@
 * [Miscrosoft Office](https://portal.office.com/account#installs)
 * [Exodus](https://www.exodus.com/m1/)
 * [Evernote](https://evernote.com/download)
+* [Slack](https://slack.com/downloads/mac)
+* [Zotero](https://www.zotero.org/download/)
+* [Zoom](https://zoom.us/download)
+* [Adobe Cloud](https://www.adobe.com/creativecloud/desktop-app.html)
 
 
+## VSCode Setup
+
+[VSCode](https://code.visualstudio.com/Download)
+* Material Icon Theme (icons)
+* Monokai Pro (color)
+* Docker
+* Markdown All in One
+* Paste Image
+* Python
+* Black
+
+![](/_embed_imgs/README_vscode_extensions.png)
 
 
 
