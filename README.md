@@ -39,6 +39,9 @@
 * [Zotero](https://www.zotero.org/download/)
 * [Zoom](https://zoom.us/download)
 * [Adobe Cloud](https://www.adobe.com/creativecloud/desktop-app.html)
+* [Transmission](https://transmissionbt.com/download)
+* [VLC](https://www.videolan.org/vlc/)
+* [NordVPN](https://nordvpn.com/)
 
 
 ## VSCode Setup
